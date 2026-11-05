@@ -1,3 +1,4 @@
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen)](https://gen-ai-mini-learning-projects-njjzgwzlrps8zef2uo86xq.streamlit.app/)
 # RAG Document Q&A ChatBot
 
 A Streamlit-based Retrieval-Augmented Generation (RAG) chatbot that enables question answering over PDF research papers using LangChain, Hugging Face embeddings, FAISS vector store, and Groq-hosted LLMs.
