@@ -1,4 +1,4 @@
-[![Live Demo](https://shields.io)](https://gen-ai-mini-learning-projects-5rth6ccotqhkjme8zb5ntz.streamlit.app
+[![Live Demo](https://shields.io)]([https://streamlit.app](https://gen-ai-mini-learning-projects-5rth6ccotqhkjme8zb5ntz.streamlit.app/))
 # Q&A Chatbot
 
 A simple AI-powered question-answering chatbot built using
